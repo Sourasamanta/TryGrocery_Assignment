@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ScreenShots/TryGrocery/Demo.gif" width="260" alt="TryGrocery Demo"/>
+<img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/Demo.gif" width="260" alt="TryGrocery Demo"/>
 
 # 🛒 TryGrocery
 
@@ -22,22 +22,22 @@
 
 | Light Mode | Dark Mode |
 |:-----------:|:---------:|
-| <img src="ScreenShots/TryGrocery/First.jpeg" width="200" alt="Login Light"/> | <img src="ScreenShots/TryGrocery/FirstDark.jpeg" width="200" alt="Login Dark"/> |
+| <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/First.jpeg" width="200" alt="Login Light"/> | <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/FirstDark.jpeg" width="200" alt="Login Dark"/> |
 | Login Screen | Login Screen (Dark) |
 
 | Light Mode | Dark Mode |
 |:-----------:|:---------:|
-| <img src="ScreenShots/TryGrocery/Second.jpeg" width="200" alt="Home Light"/> | <img src="ScreenShots/TryGrocery/SecondDark.jpeg" width="200" alt="Home Dark"/> |
+| <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/Second.jpeg" width="200" alt="Home Light"/> | <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/SecondDark.jpeg" width="200" alt="Home Dark"/> |
 | Home / Product Grid | Home (Dark) |
 
 | Cart Screen | Category Drawer |
 |:-----------:|:--------------:|
-| <img src="ScreenShots/TryGrocery/Third.jpeg" width="200" alt="Cart Light"/> | <img src="ScreenShots/TryGrocery/DrawerDark.jpeg" width="200" alt="Drawer Dark"/> |
+| <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/Third.jpeg" width="200" alt="Cart Light"/> | <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/DrawerDark.jpeg" width="200" alt="Drawer Dark"/> |
 | Cart (Light) | Nav Drawer (Dark) |
 
 | Checkout | Order Success |
 |:--------:|:------------:|
-| <img src="ScreenShots/TryGrocery/ThirdDark.jpeg" width="200" alt="Checkout Dark"/> | <img src="ScreenShots/TryGrocery/FourthDark.jpeg" width="200" alt="Order Success"/> |
+| <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/ThirdDark.jpeg" width="200" alt="Checkout Dark"/> | <img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/FourthDark.jpeg" width="200" alt="Order Success"/> |
 | Checkout (Dark) | Order Placed! (Dark) |
 
 </div>
