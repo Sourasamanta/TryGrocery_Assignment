@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sourasamanta/ScreenShots/main/TryGrocery/Demo.gif" width="280" alt="TryGrocery App Demo"/>
-
 # 🛒 TryGrocery
 
 **A full-featured grocery shopping Android application built with Kotlin, MVVM, Room, LiveData, and a clean multi-screen user flow.**
