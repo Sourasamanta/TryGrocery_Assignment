@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_primary">#66BB6A</color>
+    <color name="green_dark">#388E3C</color>
+    <color name="bg_page">#121212</color>
+    <color name="bg_card">#1E1E1E</color>
+    <color name="bg_drawer">#1A2D1C</color>
+    <color name="bg_image">#2C2C2C</color>
+    <color name="toolbar_color">#1B5E20</color>
+    <color name="cat_selected_bg">#1A3D1C</color>
+    <color name="text_primary">#F0F0F0</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="price_color">#4ADE80</color>
+    <color name="divider_color">#2D2D2D</color>
+    <color name="badge_red">#EF4444</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
